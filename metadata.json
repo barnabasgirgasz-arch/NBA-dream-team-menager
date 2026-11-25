@@ -1,0 +1,6 @@
+{
+  "name": "NBA Fantasy Draft & Trade Manager",
+  "description": "Egy interaktív NBA csapatépítő, csere- és menedzserjáték, ahol saját csapatot építhetsz, kereskedhetsz más csapatokkal és szimulálhatsz meccseket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
